@@ -1,1 +1,1 @@
-# Integraá∆o simplificada entre Python e SQL Server 
+# Integra√ß√£o simplificada entre Python e SQL Server 
